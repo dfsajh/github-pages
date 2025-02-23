@@ -1,0 +1,26 @@
+<div style="text-align:center;"><img src="C:\Users\saume\Desktop\Srinjon\Html Site\images\Logo.png" style="width: 500px;">
+<br>
+<a href="Index.html">Home</a>
+<a href="About.html">About Us</a>
+<a href="Tours.html">Tours</a>
+<a href="Blog.html">Blog</a>
+<a href="Contact.html">Contact Us</a>
+</div>
+<div style="text-align:center;">
+<h1 style="font-size:40px;"><h1 style="font-size:40px;">Experience the tourism</h1>
+<p>Looking for a tour? Use Us.</p>
+<a href="https://www.booking.com/" style="padding-bottom: 10px;padding-left: 20px;padding-top: 10px;padding-right: 20px;background-color: blue; color: white;">Book Now!</a>
+<hr>
+<img src="C:\Users\saume\Desktop\Srinjon\Html Site\images\TouristPlaces About Us.png" style="width: 190px;"><h1 style="font-size:40px;">About Us</h1>
+                                                                                                            <p style="font-family: Garamond;Font-weight: Bold;">Welcome to TouristPlaces, your ultimate travel guide to the world's most breathtaking destinations! Whether you love exploring historic landmarks, relaxing on beautiful beaches, or seeking thrilling adventures, we bring you the best travel experiences.</p>
+<ul>
+<li>🌍 Discover top tourist attractions across the globe</li>
+<li>📸 Explore stunning photos and traveler reviews</li>
+<li>🗺️ Plan your trip with expert travel guides and tips</li>
+<li>🏕️ Adventure into nature, culture, and hidden gems</li>
+</ul>
+<p style="font-family: Garamond;Font-weight: Bold;">Start your journey today with TouristPlaces – where travel dreams come to life!</p>
+<hr>
+<h1>Our Services</h1>
+<a href="Service1.html">See the first Service</a><a href="Service2.html" style="margin-right: 20px;margin-left: 20px; ">See the second Service</a><a href="Service3.html" style="margin-left: 20px;margin-right: 20px; ">See the third Service</a>
+</div>
